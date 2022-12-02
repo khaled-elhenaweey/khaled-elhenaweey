@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! My name is Khaled EL-Henaweey and I'm a Front-End Developer, from Egypt, Damietta</h2>
-<h2 align="left"> 🔭 I’m currently working on improve my logical skills</h2>
-<h2 align="left">🌱 I’m currently learning React and BEM and advanced Scss</h2>
-<h2 align="left">📫 How to reach me: khaledelhenaweey@gmail.com</h2>
+<h3 align="left">Hi 👋! My name is Khaled EL-Henaweey and I'm a Front-End Developer, from Egypt, Damietta</h3>
+<h4 align="left"> 🔭 I’m currently working on improve my logical skills</h4>
+<h4 align="left">🌱 I’m currently learning React and BEM and advanced Scss</h4>
+<h4 align="left">📫 How to reach me: khaledelhenaweey@gmail.com</h4>
 
 ###
 
