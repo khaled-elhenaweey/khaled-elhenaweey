@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khaled El-Henaweey
 ==========================================================================================================================================
 
-UI Developer and trying to be Frontend Developer and interesting in UI|UX
+UI Developer and trying to be a Frontend Developer and interested in UI|UX
 -------------------------------------------------------------------------
 
-I have worked for 2 years now as a UI developer most work with HTML and CSS, SCSS, Bootstrap, and the basics of JS and Angular Currently, I am trying to take a step as a frontend developer seeking deep-in JS and angular and React JS and tailwind.
+I have worked for 3 years now as a UI developer most work with HTML and CSS, SCSS, Bootstrap, and the basics of JS and Angular Currently, I am trying to take a step as a frontend developer seeking deep-in JS and angular and React JS and tailwind.
 
 * 🌍  I'm based in Egypt, Damietta
 * ✉️  You can contact me at [khaledelhenaweey@gmail.com](mailto:khaledelhenaweey@gmail.com)
-* 🧠  I'm learning React JS, Tailwind
+* 🧠  I'm learning angular
 * ⚡  interesting in Fitness and CrossFit
 
 ### Skills
