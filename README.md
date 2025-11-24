@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Khaled El-Henaweey
 ==========================================================================================================================================
 
-UI Developer and trying to be a Frontend Developer and interested in UI|UX
+UI Developer and trying to be a Frontend Developer, and interested in UI|UX
 -------------------------------------------------------------------------
 
-I have worked for 3 years now as a UI developer most work with HTML and CSS, SCSS, Bootstrap, and the basics of JS and Angular Currently, I am trying to take a step as a frontend developer seeking deep-in JS and angular and React JS and tailwind.
+I have worked for 3 years now as a UI developer, most work with HTML and CSS, SCSS, Bootstrap, and the basics of JS and Angular. Currently, I am trying to take a step as a frontend developer delving into JS, Angular, ReactJS, and Tailwind.
 
 * 🌍  I'm based in Egypt, Damietta
 * ✉️  You can contact me at [khaledelhenaweey@gmail.com](mailto:khaledelhenaweey@gmail.com)
-* 🧠  I'm learning angular
-* ⚡  interesting in Fitness and CrossFit
+* 🧠  I'm learning Angular
+* ⚡ interested in Fitness and CrossFit
 
 ### Skills
 
@@ -28,7 +28,5 @@ I have worked for 3 years now as a UI developer most work with HTML and CSS, SCS
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/khaled-elhenaweey"><img src="https://github-readme-stats.vercel.app/api?username=khaled-elhenaweey&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="khaled-elhenaweey's GitHub stats" /></a>
-
-<a href="http://www.github.com/khaled-elhenaweey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khaled-elhenaweey&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/khaled-elhenaweey" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-elhenaweey&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
